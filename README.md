@@ -126,7 +126,7 @@ Error Detected
 Error Position : 6
 Correct Codeword : 1 0 1 0 0 1
 
-
+```
 # Results
 
 Thus linear block code operation for the given input is successfully verified.
